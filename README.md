@@ -12,11 +12,8 @@ O dataset não está neste repositório; baixe pelo link acima ou pelo notebook.
 mAP50 = 0,729 | mAP50-95 = 0,447 | Precisão = 0,734 | Recall = 0,699
 
 <img width="469" height="477" alt="image" src="https://github.com/user-attachments/assets/ae9c853c-fdbf-401b-a0eb-1b8d19f50bd7" />
-Imagem de teste	Classe	Confiança
-fire1-377	fire	0,71
-WEBFire1863	fire (3 caixas)	0,41; 0,39; 0,32
-89_jpg	fire (2 caixas)	0,32; 0,27
-NoiseWEBFire1346	fire	0,67
+
+<img width="447" height="120" alt="image" src="https://github.com/user-attachments/assets/c8c6cc77-50c5-4d8e-9843-c235220be7d5" />
 
 
 ## Como usar
